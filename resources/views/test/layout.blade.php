@@ -1,0 +1,10 @@
+@extends('test.index')
+@section('header')
+@include('test.header')
+@endsection
+@section('navbar')
+@include('test.result')
+@endsection
+@section('footer')
+@include('test.footer')
+@endsection

@@ -1,0 +1,13 @@
+@extends('layouts.index')
+@section('header')
+@include('layouts.header')
+@endsection
+@section('navbar')
+@include('layouts.navbar')
+@endsection
+@section('content')
+@include('layouts.content')
+@endsection
+@section('footer')
+@include('layouts.footer')
+@endsection
