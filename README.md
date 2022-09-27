@@ -3,7 +3,7 @@
 
 ## About QUIZ-APP
 
-Simple laravel Quiz App. Where teacher as a Admin to create MCQ for exam and Student can register then going to login. After that student take MCQ test. But Teacher can assign to categories MCQ test.
+Simple laravel Quiz App. Where teacher as a Admin to create  for exam and Student can register then going to login. After that student take  test. But Teacher can assign to categories  test.
 
 
 # quiz-app
